@@ -1,4 +1,4 @@
 # 🔍 Keyword Scraper
 Keyword-Scraper-1.3
 
-<img width="1077" height="700" alt="ssks" src="https://github.com/user-attachments/assets/6f28a8b2-5750-4634-b32b-c07087477615" />
+<img width="1081" height="699" alt="Screenshot 2026-08-15 101840" src="https://github.com/user-attachments/assets/10ef26c8-94d3-433b-aa70-ee4aa63bf13b" />
